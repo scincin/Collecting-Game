@@ -1,12 +1,11 @@
-import React, {Component} from 'react';
+import React,{Component} from 'react';
+import Alfabe from './Alfabe';
+
 class Content extends Component {
   render() {
     return(
-      <div>
-        <h2>Content Ben</h2>
-      </div>
+      <Alfabe/>
     );
-
   }
 }
 export default Content;
