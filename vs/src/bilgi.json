@@ -1,0 +1,27 @@
+{
+  "name":"Selahattin ÇİNÇİN",
+  "image":"/Users/selahattincincin/ReactWorkspace/vs/public/vize.jpg",
+  "email":"selocincin@gmail.com",
+  "phone":"905368507395",
+  "twitter":"@selocincin",
+  "twitterURL":"https://twitter.com/selocincin",
+  "experiences" : [
+    {
+      "title":"Lead",
+      "period":"pp",
+      "company":"com",
+      "companyURL":"www",
+      "details":"ddd"
+
+    },
+    {
+      "title":"Senior",
+      "period":"pp1",
+      "company":"com1",
+      "companyURL":"www1",
+      "details":"ddd1"
+    }
+  ]
+
+
+}
